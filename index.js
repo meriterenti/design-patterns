@@ -116,6 +116,7 @@ console.log({ iphone12x });
 
 // Module Pattern - organize your code in pure functions  // import export
 
+
 // Revealing Module Patern - the same with IIFE
 const clark = (function() {
     const name = 'Poet';
