@@ -111,11 +111,12 @@ console.log({ iphone12x });
 
 
 
+
+
 /** Structural Patterns */
 
 
 // Module Pattern - organize your code in pure functions  // import export
-
 
 // Revealing Module Patern - the same with IIFE
 const clark = (function() {
